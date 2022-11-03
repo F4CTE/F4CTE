@@ -7,7 +7,7 @@
 
 <p align="center">- 🌱 I’m currently learning php and symfony -</p>
 
-<p align="center">- 📫 How to reach me shems.chelgoui@gmail.com -</p>
+<p align="center">- 📫 You can reach me  at <a href="mailto:shems.chelgoui@gmail.com">shems.chelgoui@gmail.com</a> -</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
