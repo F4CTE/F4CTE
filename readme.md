@@ -4,7 +4,7 @@
 
 **Software Engineer & Solutions Architect**
 
-Building prediction market infrastructure at [PolyForge](https://github.com/F4CTE/PolyForge) | Full-stack engineering at [SQLI](https://www.sqli.com)
+Building prediction market infrastructure at **PolyForge** | Full-stack engineering at [SQLI](https://www.sqli.com)
 
 Lyon, France
 
@@ -17,19 +17,18 @@ Lyon, France
 
 ### About
 
-Software engineer and solutions architect with a focus on distributed systems, API design, and developer tooling. Currently building **PolyForge** — an open-source platform for designing, backtesting, and deploying prediction market strategies — alongside multi-language SDKs and an MCP integration layer.
+Software engineer and solutions architect with a focus on distributed systems, API design, and developer tooling. Currently building **PolyForge** — a platform for designing, backtesting, and deploying prediction market strategies. The open-source ecosystem around it includes multi-language SDKs and an MCP integration layer.
 
 By day, I design and ship full-stack solutions at SQLI. By night, I build tools that make complex systems accessible.
 
 ---
 
-### PolyForge Ecosystem
+### Open Source — PolyForge Ecosystem
 
-The main project I'm working on — think **"N8N for prediction market strategies"**:
+Developer tools and SDKs for the PolyForge platform:
 
 | Repository | Description | Language |
 |:--|:--|:--|
-| [**PolyForge**](https://github.com/F4CTE/PolyForge) | Core platform — visual strategy builder, backtesting engine, and execution runtime | TypeScript |
 | [**polyforge-mcp**](https://github.com/F4CTE/polyforge-mcp) | Model Context Protocol server for AI-assisted strategy creation | JavaScript |
 | [**polyforge-sdk-ts**](https://github.com/F4CTE/polyforge-sdk-ts) | TypeScript SDK for the PolyForge API | TypeScript |
 | [**polyforge-sdk-python**](https://github.com/F4CTE/polyforge-sdk-python) | Python SDK for the PolyForge API | Python |
