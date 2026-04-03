@@ -4,7 +4,7 @@
 
 **Software Engineer & Solutions Architect**
 
-Building prediction market infrastructure at **PolyForge** | Full-stack engineering at [SQLI](https://www.sqli.com)
+Building prediction market infrastructure at **PolyForge**
 
 Lyon, France
 
@@ -18,8 +18,6 @@ Lyon, France
 ### About
 
 Software engineer and solutions architect with a focus on distributed systems, API design, and developer tooling. Currently building **PolyForge** — a platform for designing, backtesting, and deploying prediction market strategies. The open-source ecosystem around it includes multi-language SDKs and an MCP integration layer.
-
-By day, I design and ship full-stack solutions at SQLI. By night, I build tools that make complex systems accessible.
 
 ---
 
